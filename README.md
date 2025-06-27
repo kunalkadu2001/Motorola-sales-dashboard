@@ -56,3 +56,5 @@ The objective of this project is to analyze mobile sales data using Power BI to 
 
 - Top-Selling Mobile Model: The Moto G60 is the most sold model, owing to its balanced specs and price.
 
+## Final Conclusion
+- The dashboard offers a clear view of mobile sales trends, top brands, customer behavior, and regional performance. It helps in making quick, data-driven decisions to improve sales strategies and enhance customer satisfaction.
