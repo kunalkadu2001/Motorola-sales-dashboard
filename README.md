@@ -23,14 +23,19 @@ The objective of this project is to analyze mobile sales data using Power BI to 
 
 ## Process
 - Imported Raw Data: Loaded the messy "Mobile Sales Data" Excel file into Power BI using the Power Query Editor for transformation.
+- 
 - Data Cleaning in Power Query:
      - Removed null and duplicate records
      - Renamed inconsistent column headers (e.g., “Customer Ratings” → “Ratings”)
      - Changed data types (e.g., Date fields, Age as whole number)
      - Split or merged columns where needed (e.g., combining Day, Month, Year into a single Date column)
+       
 - Closed & Applied: Applied all transformations and loaded the cleaned dataset into Power BI's data model.
+- 
 - Built Visuals: Created various visuals like bar charts, pie charts, cards, and line graphs to represent sales, ratings, brand performance, and customer demographics.
+- 
 - Added Filters & Slicers: Implemented slicers for Brand, City, and Payment Method to enable dynamic user interactions.
+- 
 - Applied Final Touches: Used grid layout, consistent colors, and titles to ensure the dashboard was clean, interactive, and user-friendly.
 
 
