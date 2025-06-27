@@ -39,4 +39,7 @@ The objective of this project is to analyze mobile sales data using Power BI to 
 - Applied Final Touches: Used grid layout, consistent colors, and titles to ensure the dashboard was clean, interactive, and user-friendly.
 
 
+## Dashboard
+
+![Dashboard 1](https://github.com/user-attachments/assets/e3cd34e2-c473-4a7c-aadd-6aead33e453e)
 
