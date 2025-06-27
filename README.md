@@ -35,11 +35,24 @@ The objective of this project is to analyze mobile sales data using Power BI to 
 - Built Visuals: Created various visuals like bar charts, pie charts, cards, and line graphs to represent sales, ratings, brand performance, and customer demographics.
  
 - Added Filters & Slicers: Implemented slicers for Brand, City, and Payment Method to enable dynamic user interactions.
- 
-- Applied Final Touches: Used grid layout, consistent colors, and titles to ensure the dashboard was clean, interactive, and user-friendly.
-
 
 ## Dashboard
 
 ![Dashboard 1](https://github.com/user-attachments/assets/e3cd34e2-c473-4a7c-aadd-6aead33e453e)
+
+## Project Insight
+
+- Top Mobile Brand: Motorola is the brand with the highest total sales across all cities.
+
+- Monthly Sales Trend: Sales peak in October and remain consistently high during festive months.
+
+- Top City by Sales: Mumbai generates the highest sales revenue among all listed cities.
+
+- Preferred Payment Method: Most customers prefer Credit Card as their payment option.
+
+- Average Ratings by Brand: Samsung and Motorola receive the highest average customer ratings.
+
+- Age vs. Purchase Behavior: Younger customers (aged 20–35) show a stronger preference for newer models.
+
+- Top-Selling Mobile Model: The Moto G60 is the most sold model, owing to its balanced specs and price.
 
